@@ -5,7 +5,7 @@
 
 > **Data Disclaimer:** All datasets used in this project are simulated and fictional. The findings do not represent actual VELOOP users, earnings, withdrawals, revenue, retention, or business performance.
 
-## Project Overview
+## Project Overview 
 
 VELOOP Rewards is a rewards and engagement product concept that requires a reliable analytics foundation before meaningful production analytics can be performed.
 
