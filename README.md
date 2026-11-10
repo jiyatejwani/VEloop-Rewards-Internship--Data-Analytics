@@ -221,7 +221,6 @@ It also demonstrates the importance of distinguishing verified findings from ass
 
 **Jiya Tejwani**  
 B.Tech Student | Aspiring Data Analyst
-Live project link - https://veloop-rewards-internship-data-anal-sigma.vercel.app/#dashboard
 
 
 *VELOOP Rewards — Product Analytics & Data Readiness Blueprint | Data Analyst Internship, Task 01*
